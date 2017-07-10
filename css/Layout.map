@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "sass/Layout.css",
+	"sources": [
+		"sass/Layout.scss"
+	],
+	"sourcesContent": [
+		"@charset \"UTF-8\";\n\n.SiteWrap {\n  width: 100%;\n  margin: 0 auto;\n  display: flex;\n\n  aside {\n    width: 166px;\n    padding:  5px 10px 0;\n    ul {\n      list-style: none;\n    }\n  }\n\n  @mixin maru {\n    width: 100px;\n    height: 100px;\n  }\n\n  .ContentsWrap  {\n    width: 100%;\n    margin-left: 20px;\n    .HeadBox {\n      width: 100%;\n      height: 80px;\n    }\n  } //ContentsWrap end\n}\n"
+	],
+	"mappings": ";AAEA,AAAA,SAAS,CAAC;EACR,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,MAAO;EACf,OAAO,EAAE,IAAK;CAuBf;;;AA1BD,AAKE,SALO,CAKP,KAAK,CAAC;EACJ,KAAK,EAAE,KAAM;EACb,OAAO,EAAG,UAAW;CAItB;;;AAXH,AAQI,SARK,CAKP,KAAK,CAGH,EAAE,CAAC;EACD,UAAU,EAAE,IAAK;CAClB;;;AAVL,AAkBE,SAlBO,CAkBP,aAAa,CAAE;EACb,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,IAAK;CAKnB;;;AAzBH,AAqBI,SArBK,CAkBP,aAAa,CAGX,QAAQ,CAAC;EACP,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CACd",
+	"names": []
+}

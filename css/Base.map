@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "sass/Base.css",
+	"sources": [
+		"sass/Base.scss"
+	],
+	"sourcesContent": [
+		"@charset \"UTF-8\";\nhtml {\n  font-size: 16px;\n  margin: 0;\n  padding: 0;\n}\n"
+	],
+	"mappings": ";AACA,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,IAAK;EAChB,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;CACZ",
+	"names": []
+}

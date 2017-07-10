@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "sass/master.css",
+	"sources": [
+		"sass/master.scss"
+	],
+	"sourcesContent": [
+		"@charset\"utf-8\";\n\n@import url(Layout.css);\n@import url(Parts.css);\n"
+	],
+	"mappings": "AAEA,OAAO,CAAC,eAAI;AACZ,OAAO,CAAC,cAAI",
+	"names": []
+}
