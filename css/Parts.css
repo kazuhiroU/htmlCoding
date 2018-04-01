@@ -1,3 +1,13 @@
+aside {
+  padding-top: 6px;
+  padding-left: 21px; }
+
+aside .logomark {
+  margin: 0; }
+
+aside .MenuList {
+  padding-left: 5px; }
+
 .thumbnail {
   float: right; }
 
