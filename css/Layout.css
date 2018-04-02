@@ -1,5 +1,9 @@
+html {
+  font-size: 16px; }
+
 body {
-  margin: 0; }
+  margin: 0;
+  font-size: 1rem; }
 
 .SiteWrap {
   width: 100%;
@@ -12,7 +16,8 @@ body {
   width: 100%;
   font-size: 0.9rem; }
   .ContentsWrap h2 {
-    padding: 0; }
+    padding: 0;
+    margin-bottom: 5px; }
   .ContentsWrap hr {
     width: 100%;
     margin: 0 auto; }
@@ -22,16 +27,16 @@ body {
     .ContentsWrap .HomeCat th {
       background-color: #d3d3a4; }
   .ContentsWrap .Notice {
-    width: 70%;
-    height: 50px;
-    margin: 20px auto 0;
+    width: 90%;
+    height: 33px;
+    margin: 10px auto 0;
     padding-top: 10px;
     padding-left: 65px;
     border: 1px solid #a2a9b1;
     border-left: 10px solid #f28500;
     background-color: #fbfbfb;
     background-image: url(../img/50px-Question_book-4.svg.png);
-    background-position: 0 12px;
+    background-position: 8px 3px;
     background-repeat: no-repeat; }
   .ContentsWrap .origin {
     width: 90%;
@@ -98,7 +103,8 @@ body {
   .ContentsWrap .TabsWrap .LeftTabs {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex; }
+    display: flex;
+    padding-left: 0px; }
   .ContentsWrap .TabsWrap .RightTabs {
     display: -webkit-box;
     display: -ms-flexbox;
